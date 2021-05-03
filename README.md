@@ -30,6 +30,10 @@ Syntax highlighted code block
 ![image](https://user-images.githubusercontent.com/83543876/116879666-8ab50100-ac3e-11eb-8b00-bc4f1ac0cac7.png)
 
 ///Here is an unordered list: 
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
 
 Name
       Amolak Prakash
