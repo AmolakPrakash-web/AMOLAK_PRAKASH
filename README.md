@@ -33,6 +33,14 @@ Country
 
 [Link](url) and ![Image](src)
 
+LINK 
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 ```
 /// Small Image
 ![image](https://user-images.githubusercontent.com/83543876/116879666-8ab50100-ac3e-11eb-8b00-bc4f1ac0cac7.png)
@@ -41,12 +49,6 @@ Country
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-�� ��� ����� ����� �� ����
-������ �������� ���������
-����� ������������ �����
-�� ��������� ���� �� ��
-��� ���� ���� �� �������
-����������� ���
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmolakPrakash/AmolakPr/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
