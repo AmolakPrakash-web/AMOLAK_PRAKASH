@@ -29,6 +29,15 @@ Syntax highlighted code block
 /// Small Image
 ![image](https://user-images.githubusercontent.com/83543876/116879666-8ab50100-ac3e-11eb-8b00-bc4f1ac0cac7.png)
 
+Name
+      Amolak Prakash
+Born
+      2012
+Birthplace
+      NCR Gurgaon
+Colour
+      Grey
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
