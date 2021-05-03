@@ -17,6 +17,14 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+-Name
+      Amolak Prakash
+Born
+      2012
+Birthplace
+      NCR Gurgaon 
+Country
+        India
 
 1. Numbered
 2. List
@@ -35,14 +43,7 @@ var fun = function lang(l) {
   return true;
 }
 
-Name
-      Amolak Prakash
-Born
-      2012
-Birthplace
-      NCR Gurgaon 
-Country
-        India
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
