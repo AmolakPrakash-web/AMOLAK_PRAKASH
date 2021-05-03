@@ -42,6 +42,7 @@ Country
 /// Small Image
 ![image](https://user-images.githubusercontent.com/83543876/116879666-8ab50100-ac3e-11eb-8b00-bc4f1ac0cac7.png)
 
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
