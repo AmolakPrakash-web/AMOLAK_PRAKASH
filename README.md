@@ -36,9 +36,9 @@ Name
 Born
       2012
 Birthplace
-      NCR Gurgaon
-Colour
-      Grey
+      NCR Gurgaon 
+Country
+        India
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
