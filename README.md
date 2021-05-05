@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Drawing POKEMON Celebee
+# Drawing POKEMON Celebi
 ## Planning for Demo Game Portal like MineCraft
 ### Programming in Javascript and Angular Framework
 
